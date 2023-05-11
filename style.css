@@ -7,7 +7,7 @@ html {
 }
 
 body{
-    font-family: 'Roboto Mono', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     color: #888;
     margin: 0;
 }
